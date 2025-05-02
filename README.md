@@ -6,8 +6,6 @@ This project provides a unified tool to discover, download, verify, and extract 
 
 -   `unified_downloader.py` - The main script for discovering data availability, downloading, verifying checksums, extracting archives, and reporting missing files.
 -   `data_availability.json` - Stores the discovered earliest available date for each data type/symbol combination to speed up subsequent runs.
--   `data_verification_plan.md` - Documentation of the verification process (may need updates based on the unified script).
--   `venv_utils.py` - Virtual environment utilities.
 -   `requirements.txt` - Lists the required Python packages.
 
 ## Directory Structure
